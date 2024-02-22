@@ -1,0 +1,12 @@
+# HyperLynx DC Drop simulation results
+
+(header
+  (version 1 0)
+  (design "Mixed Signal Board Project.hyp")
+)
+
+(net
+  (name "+12V")
+  (vrmVoltage 12)
+  (voltageDrop 12)
+)
